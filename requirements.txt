@@ -1,4 +1,4 @@
-phidata
+phidata 
 python-dotenv
 yfinance
 packaging
@@ -7,3 +7,8 @@ fastapi
 uvicorn
 groq
 openai
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+sentence-transformers
